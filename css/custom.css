@@ -1,0 +1,172 @@
+@media (max-width: 1140px) {
+    .container {
+        max-width: 1140px;
+    }
+}
+
+/* Text colors */
+.text-dark-custom {
+    color: #3a3a47!important;
+}
+
+.text-grey-custom {
+    color: #5c5c5c!important;
+}
+
+.text-light-grey-cutom {
+    color: #818198!important;
+}
+
+.text-dark-blue-custom {
+    color: #383b61!important;
+}
+
+.text-blue-custom {
+    color: #3498db!important;
+}
+
+.text-green-custom {
+    color: #21bf73!important;
+}
+/* /Text colors */
+
+/* Background colors */
+.bg-primary-custom {
+    background-color: #f0f5f9!important;
+}
+/* /Background colors */
+
+/* Forms and buttons styles */
+.btn {
+    padding: 0 20px;
+    line-height: 38px;
+}
+
+.btn-blue-custom {
+    border: 2px solid #3498db;
+    color: #3498db;
+}
+.btn-blue-custom:hover {
+    background-color: #3498db;
+    color: #fff;
+}
+
+.btn-success-custom {
+    border: 2px solid #21bf73;
+    background-color: #21bf73;
+    color: #fff;
+}
+
+.btn-success-custom-hover{
+    color: #fff;
+}
+
+/* Form control custom */
+.form-control-custom {
+    color: yellow;
+}
+/* /Form control custom */
+.form-control-custom {
+    color: #222;
+    font-size: 14px;
+    font-weight: 500;
+    height: 45px;
+    border: 0;
+    border-radius: 5px 0 0 5px;
+    background-color: #f0f5f8;
+    outline: none;
+    padding-left: 20px;
+}
+/* /Forms and buttons styles */
+
+/* Navigation menu */
+.navbar-brand {
+    font-weight: 500;
+}
+
+.navbar-light .navbar-nav .nav-link.active,
+.navbar-light .navbar-nav .show>.nav-link,
+.navbar-light .navbar-nav .nav-link {
+    font-weight: 500;
+    font-size: 14px;
+    padding: 10px 20px;
+}
+/* /Navigation menu */
+
+/* Home */
+.home {
+    padding: 150px 0 100px 0;
+}
+/* /Home */
+
+/* About */
+.about-card-image {
+    background-color: #f0f5f9;
+}
+
+.about__card-img_1{
+    width: 100px;
+    height: 80px;
+    border-radius: 10px;
+}
+/* /About */
+
+/* Features */
+.features-container {
+    background-color: #f0f5f9;
+}
+
+.fetures__images {
+    height: 390px;
+    width: 640px;
+}
+
+.fetures-img {
+    width: 30px;
+    height: 30px;
+    border-radius: 50px;
+}
+/* Features */
+
+/* Results */
+.results_img {
+    width: 50px;
+    height: 50px;
+}
+/* /Results */
+
+/* Reviews */
+.reviews__container {
+    padding: 100px 50px;
+    background-color: #f0f5f9;
+}
+
+.reviews__svg {
+    width: 60px;
+    float: left;
+}
+
+.reviews__images {
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+}
+/* /Reviews */
+
+/* Pricing */
+.pricing__card {
+    background-color: #f0f5f9;
+}
+
+.pricing__images {
+    width: 120px;
+    height: 100px;
+}
+/* /Pricing */
+
+/* FAQ */
+.FAQ__container {
+    padding: 100px 50px;
+    background-color: #f0f5f9;
+}
+/* /FAQ */
